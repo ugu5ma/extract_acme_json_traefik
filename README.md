@@ -9,9 +9,8 @@ This repository provides a Bash script to extract certificates and keys from acm
 
 
 ## Features
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
-
+- extracts X.509 certificate
+- extracts private key
+- creates optional .pfx
+- validates if certificate matches to key
+-shows optional extended certificates details
