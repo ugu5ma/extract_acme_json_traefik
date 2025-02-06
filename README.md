@@ -13,4 +13,4 @@ This repository provides a Bash script to extract certificates and keys from acm
 - extracts private key
 - creates optional .pfx
 - validates if certificate matches to key
--shows optional extended certificates details
+- shows optional extended certificates details
