@@ -17,5 +17,5 @@ Cert-Provider: Let's Encrypt
 - extracts X.509 certificate
 - extracts private key
 - creates optional .pfx
-- validates if certificate matches to key
+- validates if certificate matches the key
 - shows optional extended certificates details
