@@ -76,7 +76,7 @@ done
    # Compare the two hashes
 if [[ "$hash1" == "$hash2" ]]; then
     echo "***** Success: The certificate and key match.\n"
-    # Your script continues here
+    
 else
     echo "Error: certificate and key do not match. Exiting script..."
     exit 1
